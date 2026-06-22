@@ -1,4 +1,4 @@
-# rice_leaf_detection
+
 # Rice Leaf Disease Detection and Classification
 
 ## Overview
